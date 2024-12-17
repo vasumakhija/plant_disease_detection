@@ -2,6 +2,10 @@
 
 This project uses a **machine learning model** to detect potato diseases from leaf images. It includes a **backend powered by FastAPI** and a **frontend built with React**.
 
+![home](1img.png)
+![after_inserting](2img.png)
+
+
 ---
 
 ## Features
